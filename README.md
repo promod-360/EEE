@@ -1,1 +1,1 @@
-# EEE
+# EEE Lab
